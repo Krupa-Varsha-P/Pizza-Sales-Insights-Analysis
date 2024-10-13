@@ -2,9 +2,9 @@
 ## About:
 Hey Pizza Lovers out there!!
 
-Do check this latest work of mine which tempts you to grab your favorite and delicious pizza immediately, adding extra toppings not only for your pizza, but also to our Data and Analytics skills as well!!!
+Do check this latest work of mine which tempts you to grab your Favourite and Delicious Pizza immediately, adding Extra Toppings not only for your Pizza, but also to your Data and Analytics Skills as well!!!
 
-This Sales(Revenue) Dashboard was developed using the datasets which are in the Comma Separated Values(CSV) and Microsoft Excel Format, transformed and loaded to generate dashboard to gain insights.
+This project consists of Sales(Revenue) Dashboard which is completely dynamic and interactive, which was generated using Datasets, in Excel and CSV formats. The relationship was established between the data tables by Snowflake Schema. This dashboard helps us to gain Sales(Revenue) Insights of a Pizza Restaurant, helping us to better understand their periodic & categorical performance and Revenue generated, Quantity sold & Orders received trend to make effective decisions.
 ## Ingredients of my Dashboard:
 * Microsoft Power BI Desktop
 * Power Query Editor & DAX
